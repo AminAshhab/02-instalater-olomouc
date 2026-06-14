@@ -9,7 +9,6 @@ import About from './components/About.jsx'
 import Services from './components/Services.jsx'
 import Gallery from './components/Gallery.jsx'
 import Contact from './components/Contact.jsx'
-import Footer from './components/Footer.jsx'
 import StickyCall from './components/StickyCall.jsx'
 
 gsap.registerPlugin(ScrollTrigger)
@@ -96,7 +95,6 @@ function App() {
       <Services />
       <Gallery />
       <Contact />
-      <Footer />
       <StickyCall />
     </div>
   )
