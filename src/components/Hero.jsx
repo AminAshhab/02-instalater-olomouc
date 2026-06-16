@@ -10,10 +10,10 @@ function Hero() {
 
           <h1>
             <span className="line-1" style={{ display: 'block', opacity: 0, transform: 'translateY(40px)' }}>
-              Instalatér,
+              Voda, topení, podlahy.
             </span>
             <span className="line-2" style={{ display: 'block', opacity: 0, transform: 'translateY(40px)' }}>
-              kterého zavoláte.
+              Stavba od A do Z.
             </span>
           </h1>
 
@@ -29,7 +29,7 @@ function Hero() {
               <span>Volat</span>
               <span className="phone">+420 777 256 557</span>
             </a>
-            <span className="hero-cta-note">Nezávazná konzultace · Po–Pá</span>
+            <span className="hero-cta-note">Nezávazná konzultace</span>
           </div>
 
           <div className="hero-meta" style={{ opacity: 0, transform: 'translateY(20px)' }}>

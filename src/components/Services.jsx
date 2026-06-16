@@ -8,19 +8,19 @@ const services = [
   {
     no: '02',
     title: 'Podlahařské práce',
-    desc: 'Pokládka a oprava podlahového systému — laminát, plovoucí podlahy i klasické dřevěné.',
+    desc: 'Pokládka a oprava podlahového systému.',
     tag: 'Pokládka · Oprava',
   },
   {
     no: '03',
     title: 'Stavební práce',
-    desc: 'Veškeré stavební práce od A do Z — od bouracích prací po finální omítky a obklady.',
-    tag: 'Komplet · Olomouc',
+    desc: 'Veškeré stavební práce od A do Z.',
+    tag: 'Stavba · Olomouc',
   },
   {
     no: '04',
     title: 'Ruční práce',
-    desc: 'Drobné řemeslné zakázky, dílčí opravy a údržba. Když potřebujete jednoho člověka pro vícero věcí.',
+    desc: 'Dílčí opravy a drobné práce.',
     tag: 'Detail · Údržba',
   },
 ]

@@ -63,7 +63,7 @@ function Gallery() {
             </h2>
           </div>
           <p className="muted reveal" style={{ fontSize: '1rem', lineHeight: 1.7, maxWidth: '420px' }}>
-            Vybrané realizace — koupelny, kuchyně, schodiště a stavební drobnosti. Vše jsou skutečné zakázky v Olomouci a okolí, žádné stock fotky.
+            Vybrané realizace — koupelny, kuchyně, schodiště a stavební drobnosti v Olomouci a okolí.
           </p>
         </div>
 

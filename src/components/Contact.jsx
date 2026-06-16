@@ -11,7 +11,7 @@ function Contact() {
             V případě zájmu <span className="accent-mark">stačí zavolat.</span>
           </h2>
           <p className="muted reveal" style={{ fontSize: '1.05rem', maxWidth: '560px', marginTop: '1.25rem' }}>
-            V případě zájmu o mé služby nebo jestliže máte jakýkoli dotaz, využijte níže uvedené kontakty.
+            Adresa pro osobní jednání, mapa a kontakty níže.
           </p>
         </div>
 
@@ -23,7 +23,7 @@ function Contact() {
                 <a href="tel:+420777256557">+420 777 256 557</a>
               </div>
               <div className="contact-call-sub">
-                Nejrychlejší cesta, jak se dohodnout. Zvedám většinou hned, pokud ne, do hodiny volám zpět.
+                Nejrychleji telefonem — popis zakázky probereme přímo, nebo se zastavte na adrese.
               </div>
               <a className="contact-call-action" href="tel:+420777256557">
                 <span aria-hidden="true">☎</span>

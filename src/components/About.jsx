@@ -11,10 +11,10 @@ function About() {
             <div className="divider"></div>
             <h2 className="about-title">
               Řemeslo<br />
-              <span className="accent-mark">bez prodlev.</span>
+              <span className="accent-mark">od roku 2008.</span>
             </h2>
             <p className="muted" style={{ fontSize: '0.97rem', lineHeight: 1.7, maxWidth: '320px' }}>
-              Jeden člověk, jeden telefon, jedna odpovědnost. Žádné dispečinky, žádné podzhotovitele.
+              Jeden člověk, jeden telefon, jedna odpovědnost.
             </p>
           </div>
 
